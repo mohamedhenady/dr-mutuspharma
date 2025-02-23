@@ -1,0 +1,7 @@
+module.exports = {
+  extends: ['next/core-web-vitals'],
+  parserOptions: {
+    ecmaVersion: 'latest',
+    sourceType: 'module'
+  }
+}
